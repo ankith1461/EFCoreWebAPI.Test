@@ -1,0 +1,14 @@
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebAPI.Test.deps.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebAPI.Test.runtimeconfig.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebAPI.Test.runtimeconfig.dev.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebAPI.Test.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebAPI.Test.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\bin\Debug\netcoreapp1.1\EFCoreWebApi.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\obj\Debug\netcoreapp1.1\EFCoreWebAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\obj\Debug\netcoreapp1.1\EFCoreWebAPI.Test.AssemblyInfo.cs
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\obj\Debug\netcoreapp1.1\EFCoreWebAPI.Test.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebAPI.Test\obj\Debug\netcoreapp1.1\EFCoreWebAPI.Test.pdb
